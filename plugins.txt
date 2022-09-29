@@ -1,0 +1,10 @@
+git
+workflow-aggregator
+github
+ws-cleanup
+greenballs
+simple-theme-plugin
+github-branch-source
+kubernetes-cli
+docker-workflow
+kubernetes
